@@ -1,2 +1,2 @@
 # sinaspider
-新浪滚动新闻爬取
+python新浪滚动新闻爬取
